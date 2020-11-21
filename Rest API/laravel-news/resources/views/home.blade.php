@@ -21,12 +21,12 @@
                                 <div class="date meta-last">{{$a->publishedAt}}</div>
                                 <div class="category"><a>Sumber: {{$a->source->name}}</a></div>
                             </div>
-                            <a href="{{$a->url}}">
+                            <a href="{{$a->url}}" target="_blank">
                                 <h3 class="h4">{{$a->title}}</h3>
                             </a>
                             <p class="text-muted">{{Str::limit($a->description, 150, '...')}}. 
                                 <a href="{{$a->url}}" class="text-dark" target="_blank">Lebih Detail</a></p>
-                                <a href="{{$a->url}}" style="font-size: 12px;">URL : {{$a->url}}</a>
+                                <a href="{{$a->url}}" style="font-size: 12px;" target="_blank">URL : {{$a->url}}</a>
                             <footer class="post-footer d-flex align-items-center"><a href="#"
                                     class="author d-flex align-items-center flex-wrap">
                                     <div class="avatar"><img
