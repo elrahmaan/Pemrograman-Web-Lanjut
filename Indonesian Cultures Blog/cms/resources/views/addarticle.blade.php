@@ -35,6 +35,7 @@
                 </div>
                 <div class="form-group">
                     <label for="user_id">ID Author (ID User)</label>
+                    <input type="text" class="form-control" required="required" name="user_id"></br>
                 </div>
                 <button type="submit" name="add" class="btn btn-primary float-right">Tambah Data</button>
             </form>
