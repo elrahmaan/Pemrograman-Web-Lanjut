@@ -1,4 +1,3 @@
 # Pemrograman-Web-Lanjut
 
-Untuk project cms pada pertemuan 5(Kuis 1) berada pada repo dengan link:
-https://github.com/abdulrahmansaleh01/PWL-KUIS1
+Untuk project cms pada pertemuan 5(Kuis 1), klik [disini](https://github.com/elrahmaan/PWL-KUIS1)
